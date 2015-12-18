@@ -1,4 +1,13 @@
 # testrepo
-just testing git
+just testing git jj
 
-hello world
+
+preview changes
+
+green red blue
+
+purple orange
+
+green means new
+yellow means edit
+red means delete
